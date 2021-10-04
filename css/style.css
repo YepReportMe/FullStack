@@ -1,0 +1,88 @@
+h1, h2, h3, h4 ,h5 h6 {
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 10rem;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    /* background-image: url("top.png"); */
+}
+
+/* Navigation Bar */
+
+.navbar-header {
+    padding: 0 0 4.5rem;
+}
+
+#header {
+    background-image: url("top.png");
+    padding-bottom: 25rem;
+    
+}
+
+
+.text-top {
+    color: #fff;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.title-top {
+    font-size: 7rem;
+    margin-top: 5rem;
+}
+.subtitle-top {
+    font-size: 17px;
+    margin-top: 3rem;
+}
+
+.btn {
+    margin-top: 3rem;
+}
+
+#feauters {
+    background-color: white;
+    padding: 12% 15%;
+}
+
+.chef-img {
+    width: 600px;
+    height: 500px;
+}
+
+.lead {
+    color: gray;
+}
+
+#gallery {
+    background-color: black;
+    padding: 12% 15%;
+}
+
+.title-gallery {
+    text-align: center;
+    color: #fff;
+    line-height: 1.5;
+    padding-bottom: 5rem;
+}
+
+#contact {
+    background-color: white;
+    padding: 12% 15%;
+}
+
+.contact-us {
+    text-align: center;
+    color: #000;
+    line-height: 1.5;
+    padding-bottom: 5rem;
+}
+
+.tex {
+    font-size: 1.5rem;
+}
+
+.sendus {
+    font-size: 4rem;
+    line-height: 2;
+}
